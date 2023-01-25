@@ -1,1 +1,20 @@
-
+ls:: indicating the current position you at and callout the visual image of the place
+cd LOCATION:: Add a LOCATION name to move the location
+cd:: Return directly home (No other suffixes)
+cd ..:: Return to the last place you went to
+less ITEM:: interact with the object in the certain place (it provides clues)
+mv OBJECT LOCATION:: Move the object to the location (it would only apply to certain items in certain places)
+tellme combo:: A certain command line in the game (interaction with the USEFULTA)
+terminus:: A certain command line in the game (password to the Athena’s locker)
+man COMMAND:: Listen to the Old man to know what the Command is used for
+rm NAME:: Let an item or sombody disappear
+mkdir DIRECTORY:: Create a new place
+Sudo:: Perform any action on any object
+cd ~:: Return home directly
+grep PHRASE ITEM:: Check if the the phrase comes out in the item(book)
+cp ITEM NEWNAME:: copy an item and give it a new name
+touch ITEM:: Create an item
+cp [ITEM_TO_COPY] ../[NEW_ITEM_NAME]::
+sudo COMMAND:: Type SUDO before any command line to find paradise
+IHTFP:: A certain command line in the game (password to the Paradise)
+exit:: Permanently exit the game
