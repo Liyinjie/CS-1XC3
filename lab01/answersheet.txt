@@ -1,0 +1,12 @@
+1.
+
+
+2.
+Signs I saw through the trip are listed as follow: (in form LOCATION:NAME OF THE SIGN)
+home:Welcome letter
+WesternForest:Sign/Backsign
+PracticeRoom:Instructions
+MIT:AdmissionLetter
+AthenaCluster:Workstation
+StairCase:Sign
+KernelFiles:Instructions/Certificate
