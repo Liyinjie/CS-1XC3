@@ -3,10 +3,5 @@ I have a MacBook pro, which is MacOS operating system. I know there are quite a 
 First of all, the outstanding part of Linux is Terminal (Command lines) and the outstanding part of MacOS is GUI (Graphical User Interface). Because of that, most developers would choose Linux to do developing jobs while ordinary people, like me, would use MacOS to deal with daily issues. Secondly, I have seen a lot of people using MacOS and Linux. According to my observation, it is all the same page and if I need to work on other's computer all of a sudden, I would choose a Macbook because I know exactly how to use it. However, even though I never try working with other's Linux system, I think it would be more difficult than the former situation becuase there will be so many different kinds of Linux applications. Last but not least, is downloading difference. People who use MacOS could easily download applications through APP Store. Compared with this, people who use Linux would still need to deal with different kinds of packages. I am not saying that Linux is worse than MacOS, but based on my using experience and game time in Terminus, I would choose MacOS system to surfing in the Internet.
 2.
 Signs I saw through the trip are listed as follow: (in form LOCATION:NAME OF THE SIGN)
-home:Welcome letter
 WesternForest:Sign/Backsign
-PracticeRoom:Instructions
-MIT:AdmissionLetter
-AthenaCluster:Workstation
 StairCase:Sign
-KernelFiles:Instructions/Certificate
