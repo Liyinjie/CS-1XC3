@@ -1,0 +1,23 @@
+/Users/ritane
+/Users/ritane
+ritane
+/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/3.10/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion.app/Contents/Public
+-bash: liyinjie: command not found
+TERM_PROGRAM=Apple_Terminal
+SHELL=/bin/bash
+TERM=xterm-256color
+TMPDIR=/var/folders/7b/ft1b95d91wx66vqdfpfvg2880000gn/T/
+TERM_PROGRAM_VERSION=445
+TERM_SESSION_ID=C17FDEC2-588E-4BDE-8823-F3965F15AADD
+USER=ritane
+SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.hEPsqVw7wy/Listeners
+PATH=/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/3.10/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion.app/Contents/Public
+__CFBundleIdentifier=com.apple.Terminal
+PWD=/Users/ritane
+LANG=zh_CN.UTF-8
+XPC_FLAGS=0x0
+XPC_SERVICE_NAME=0
+SHLVL=1
+HOME=/Users/ritane
+LOGNAME=ritane
+_=/usr/bin/env
